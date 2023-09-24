@@ -1,0 +1,6 @@
+/home/ray/Projects/iCP/csp/bin/Debug/csp.dll
+/home/ray/Projects/iCP/csp/bin/Debug/csp.pdb
+/home/ray/Projects/iCP/csp/obj/Debug/csp.csproj.AssemblyReference.cache
+/home/ray/Projects/iCP/csp/obj/Debug/csp.csproj.CoreCompileInputs.cache
+/home/ray/Projects/iCP/csp/obj/Debug/csp.dll
+/home/ray/Projects/iCP/csp/obj/Debug/csp.pdb
