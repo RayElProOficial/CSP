@@ -13,13 +13,19 @@ namespace Application
     public static void Main(string[] args)
     {
       string MyText;
-      MyText = "Some example in C#.";
+      MyText = "STRVLE";
+      Console.WriteLine(MyText);
+      Console.ReadLine();
       int MyNum;
-      MyNum = 1234;
-      string[] MyMultiText;
-      MyMutliText = { "mmt", "1.1.1.1" }
+      MyNum = 0;
       decimal MyDecimal;
       MyDecimal = 0.1;
+      string MyFText;
+      string = $"text: {MyText}, number: {MyNum}";
+      string[] MyMultiText;
+      MyMutliText = { "mmt", "1.1.1.1" }
+      //ASSIGN TO VARIABLE
+      MyText = "Assign!";
     }
   }
 }
@@ -36,16 +42,13 @@ namespace iNS_CROSS_PLATFORM_LinxCLI
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
-
             Text text;
             text = new Text("STRVLE");
             Console.WriteLine(text); 
             Console.ReadLine();
             Num number;
             number = new Num(0);
-            DNum decimal;
+            DNum decimal; //STILL IN DEVELOPMENT.
             decimal = new DNum(0.1);
             FText formattedtext;
             formattedtext = new FText($"Text: {text}, Number: {number}.");
